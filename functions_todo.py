@@ -7,7 +7,7 @@ def get_todos(filepath="files/todo.txt"):
         todos_local = file_local.readlines()
     return todos_local
 
-
+#1
 def write_todos(todos_arg,filepath="files/todo.txt"):
     """
     Write  a list of to-do items to a text file.

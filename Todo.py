@@ -2,10 +2,10 @@ import os
 import time
 #from functions_todo import get_todos,write_todos
 import functions_todo
-
+#1
 # file_path = os.path.join(os.path.dirname(__file__), 'todo.txt')
 # # print("Current Working Directory:", os.getcwd())
-#1234
+#12344
 user_prompt = "Enter a Todo: "
 user_prompt = user_prompt.strip()
 #Added Time now V2
